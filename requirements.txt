@@ -1,0 +1,10 @@
+langchain
+langchain_chroma
+python-dotenv
+requests
+chromadb
+google-cloud
+google-auth
+google-auth-oauthlib
+sentence-transformers
+langchain-community
